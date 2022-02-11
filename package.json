@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Boki136/Adriatico-Tours#readme",
   "devDependencies": {
-    "node-sass": "^5.0.0"
+    "node-sass": "^7.0.0"
   }
 }
